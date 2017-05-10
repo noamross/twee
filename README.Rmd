@@ -1,0 +1,36 @@
+
+```{r, setup, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(
+  comment = "#>",
+  tidy = FALSE,
+  error = FALSE,
+  fig.width = 8,
+  fig.height = 8)
+```
+
+# filetree
+
+> filetree
+
+[![Linux Build Status](https://travis-ci.org/ecohealthalliance/filetree.svg?branch=master)](https://travis-ci.org/ecohealthalliance/filetree)
+[![](http://www.r-pkg.org/badges/version/filetree)](http://www.r-pkg.org/pkg/filetree)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/filetree)](http://www.r-pkg.org/pkg/filetree)
+
+
+Print pretty tree-like file listing
+
+## Installation
+
+```{r eval = FALSE}
+devtools::install_github("ecohealthalliance/filetree")
+```
+
+## Usage
+
+```{r}
+library(filetree)
+```
+
+## License
+
+MIT + file LICENSE © 
