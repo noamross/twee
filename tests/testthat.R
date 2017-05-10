@@ -1,4 +1,4 @@
 library(testthat)
-library(filetree)
+library(twee)
 
-test_check("filetree")
+test_check("twee")

@@ -1,11 +1,11 @@
 
-# filetree
+# twee
 
-> filetree
+> twee
 
-[![Linux Build Status](https://travis-ci.org/ecohealthalliance/filetree.svg?branch=master)](https://travis-ci.org/ecohealthalliance/filetree)
-[![](http://www.r-pkg.org/badges/version/filetree)](http://www.r-pkg.org/pkg/filetree)
-[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/filetree)](http://www.r-pkg.org/pkg/filetree)
+[![Linux Build Status](https://travis-ci.org/ecohealthalliance/twee.svg?branch=master)](https://travis-ci.org/ecohealthalliance/twee)
+[![](http://www.r-pkg.org/badges/version/twee)](http://www.r-pkg.org/pkg/twee)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/twee)](http://www.r-pkg.org/pkg/twee)
 
 
 Print pretty tree-like file listing
@@ -13,13 +13,13 @@ Print pretty tree-like file listing
 ## Installation
 
 ```r
-devtools::install_github("ecohealthalliance/filetree")
+devtools::install_github("ecohealthalliance/twee")
 ```
 
 ## Usage
 
 ```r
-library(filetree)
+library(twee)
 ```
 
 ## License

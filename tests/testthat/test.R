@@ -1,7 +1,7 @@
 
-context("filetree")
+context("twee")
 
-test_that("filetree works", {
+test_that("twee works", {
 
   expect_true(TRUE)
 

@@ -1,13 +1,13 @@
-Package: filetree
-Title: filetree
+Package: twee
+Title: twee
 Version: 0.1.0
 Author: Noam Ross
 Maintainer: Noam Ross <ross@ecohealthalliance.org>
 Description: Print pretty tree-like file listing
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/ecohealthalliance/filetree
-BugReports: https://github.com/ecohealthalliance/filetree/issues
+URL: https://github.com/ecohealthalliance/twee
+BugReports: https://github.com/ecohealthalliance/twee/issues
 RoxygenNote: 6.0.1
 Suggests: 
     testthat

@@ -1,8 +1,8 @@
 
-#' filetree
+#' twee
 #'
 #' Print pretty tree-like file listing
 #'
 #' @docType package
-#' @name filetree
+#' @name twee
 NULL
