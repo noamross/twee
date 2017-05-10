@@ -1,8 +1,11 @@
 Package: twee
 Title: twee
 Version: 0.1.0
-Author: Noam Ross
-Maintainer: Noam Ross <ross@ecohealthalliance.org>
+Authors@R: c(
+    person("Noam", "Ross", , "noam.ross@gmail.com, role = c("aut", "cre")),
+    person("Jennifer", "Bryan", ,"jenny@rstudio.com", role = c("aut", "cre"))
+   )
+Maintainer: Noam Ross <noam.ross@gmail.com>
 Description: Print pretty tree-like file listing
 License: MIT + file LICENSE
 LazyData: true
