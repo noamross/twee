@@ -2,7 +2,7 @@ Package: twee
 Title: twee
 Version: 0.1.0
 Authors@R: c(
-    person("Noam", "Ross", , "noam.ross@gmail.com, role = c("aut", "cre")),
+    person("Noam", "Ross", , "noam.ross@gmail.com", role = c("aut")),
     person("Jennifer", "Bryan", ,"jenny@rstudio.com", role = c("aut", "cre"))
    )
 Maintainer: Noam Ross <noam.ross@gmail.com>
