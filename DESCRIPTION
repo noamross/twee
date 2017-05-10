@@ -9,8 +9,8 @@ Maintainer: Noam Ross <noam.ross@gmail.com>
 Description: Print pretty tree-like file listing
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/ecohealthalliance/twee
-BugReports: https://github.com/ecohealthalliance/twee/issues
+URL: https://github.com/noamross/twee
+BugReports: https://github.com/noamross/twee/issues
 RoxygenNote: 6.0.1
 Suggests: 
     testthat
